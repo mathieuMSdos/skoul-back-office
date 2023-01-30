@@ -232,3 +232,4 @@ if ($student->save()) {
 
 Et oui, comme pour les challenges, il y a [des bonus](bonus.md) 🎉
 # projet-Skoul-backOffice
+# skoul-back-office
