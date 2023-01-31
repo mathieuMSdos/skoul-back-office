@@ -31,7 +31,7 @@ class Database
     {
         // Récupération des données du fichier de config
         // la fonction parse_ini_file parse le fichier et retourne un array associatif
-        $configData = parse_ini_file(__DIR__ . '/../config.ini');
+        $configData = parse_ini_file(__DIR__ . '/../config.env');
 
         // PHP essaie d'exécuter tout le code à l'intérieur du bloc "try", mais...
         try {
